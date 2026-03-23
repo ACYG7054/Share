@@ -35,11 +35,38 @@
 > 学历一般的同学路径：**小厂 → 中厂 → 大厂**，一步一步打怪升级。
 > 此时简历上是：魔改的点评 + 外卖
 
-### 第三阶段（约 1 个月）：Python + AI 应用开发
+### 第三阶段（约 2 周）：Python + AI 应用开发
 
 核心学 **LangGraph**。学完之后用 LangGraph 框架 + Claude Code / Codex，自己手敲一个完整项目，把高级特性都用一遍。
 
-到这个阶段基本就领先很多人了。直接看我小红书笔记：`5332538440`
+到这个阶段基本就领先很多人了。
+
+**基础学习阶段：**
+
+- AI专业词汇（2h）：某站BV1dz6oBWEWx
+- Python基础（3h）：菜鸟编程
+- Python的CRUD（2h）：BV1zV2QBtE39
+- LangChain（4h）：BV1pRiWB8EXy、LlamaIndex中文文档
+- LlamaIndex（4h）：BV1FPuGzrEXX、LlamaIndex中文文档
+- RAG相关（4h）：BV1RzzNBBELS、BV1hmqwBUEbg、BV1bqk4BcEZU、BV1qcBWBWEoG
+- 向量数据库Milvus（4h）：文档
+- AutoGen（4h）：中文文档
+
+**实战阶段：**
+
+- RAG：https://datawhalechina.github.io/all-in-rag/#/
+- Agent：https://datawhalechina.github.io/hello-agents/#/
+- 面试题：Github的AgentGuide
+
+**性能优化、评价、可观测与部署：**
+
+- 各种工具和LangSmith
+- 知识图谱、MCP可以学一下
+- RAG、Agent怎么评估
+
+我的路线参考是：Github的AgentGuide
+
+
 
 > 此时简历上是：一段包装实习经历 + LangGraph 项目
 
