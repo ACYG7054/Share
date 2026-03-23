@@ -2,6 +2,8 @@
 
 持续更新中，会不断完善，修正细节
 
+如果有想了解的，或者是写的不够详细的地方，欢迎私信
+
 **在线阅读：[https://acyg7054.github.io/Share/](https://acyg7054.github.io/Share/)**
 
 ## 内容方向
