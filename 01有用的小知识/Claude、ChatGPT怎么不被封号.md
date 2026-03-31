@@ -9,6 +9,7 @@ https://gmailbuy.com/
 - https://mubaishop.top/
 - https://8733ai.vip/
 - https://juzixp.com/
+- 咸鱼（最便宜，20元左右就能买到）
 
 ## 合理挂梯子
 开全局模式，不要挂港澳台地区。
