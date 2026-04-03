@@ -1,7 +1,7 @@
 # Claude、ChatGPT怎么安装、使用
 
 ## 梯子
-- 订阅梯子：https://congyu.moe/
+- 订阅梯子：https://congyu.moe/、https://xn--30rs3bu7r87f.com/#/plan/8
 - 安装梯子
 ![img.png](../image/安装梯子.png)
 - 订阅的套餐导入
